@@ -14,3 +14,11 @@ Department VARCHAR(20),
 Date_of_join DATE,
 salary INT
 );
+
+
+CREATE TABLE alumni(
+alumni_reg VARCHAR(20) PRIMARY KEY,
+alumni_name VARCHAR(20),
+comp_name VARCHAR(20),
+age INT
+);
