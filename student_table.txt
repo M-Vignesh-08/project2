@@ -14,3 +14,10 @@ Department VARCHAR(20),
 Date_of_join DATE,
 salary INT
 );
+
+CREATE TABLE department(
+dep_id INT PRIMARY KEY,
+dep_name VARCHAR(20),
+Stu_count INT,
+HOD VARCHAR(20)
+);
