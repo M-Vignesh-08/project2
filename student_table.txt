@@ -22,3 +22,8 @@ alumni_name VARCHAR(20),
 comp_name VARCHAR(20),
 age INT
 );
+
+CREATE TABLE admin(
+admin_id INT,
+admin_name VARCHAR(20)
+);
