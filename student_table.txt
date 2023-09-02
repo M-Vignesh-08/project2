@@ -22,3 +22,8 @@ alumni_name VARCHAR(20),
 comp_name VARCHAR(20),
 age INT
 );
+
+CREATE TABLE fees(
+fees_id INT,
+amount INT
+);
