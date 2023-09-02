@@ -6,3 +6,11 @@ department VARCHAR(20),
 age INT,
 address VARCHAR(50)
 );
+
+CREATE TABLE teacher(
+staff_id INT PRIMARY KEY,
+staff_name VARCHAR(20),
+Department VARCHAR(20),
+Date_of_join DATE,
+salary INT
+);
