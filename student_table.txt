@@ -1,0 +1,8 @@
+CREATE TABLE student
+(
+reg_no VARCHAR(20) PRIMARY KEY,
+name VARCHAR(30),
+department VARCHAR(20),
+age INT,
+address VARCHAR(50)
+);
